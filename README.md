@@ -16,3 +16,6 @@ This project implements a multiclass classification model to recognize handwritt
 ## 🛠️ Tech Stack
 * Python (Scikit-Learn, NumPy, Pandas)
 * Matplotlib & Seaborn (Visualization)
+
+## result :
+![alt text](Data/image.png)   ![alt text](Data/image-1.png)
